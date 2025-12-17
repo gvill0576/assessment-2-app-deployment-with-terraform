@@ -3,7 +3,7 @@
 # Bootstrap script for Terraform backend resources
 
 REGION="us-east-1"
-BUCKET_NAME="gvillalta-assessment-ii-tfstate"  # Must be globally unique
+BUCKET_NAME="gvillanueva-assessment-ii-tfstate"  # Must be globally unique
 TABLE_NAME="assessment-ii-terraform-lock"
 
 echo "Creating S3 bucket for Terraform state..."
